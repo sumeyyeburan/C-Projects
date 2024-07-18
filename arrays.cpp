@@ -2,6 +2,7 @@
 
 using namespace std;
 #define SIZE 5
+
 //global variables
 int array[SIZE];
 int i,j;
